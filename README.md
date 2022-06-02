@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/Guilherme-Yeager/751a16c1efb40d6b1b52fe5a0609b4e0/raw/3d50777b8e4d6dbff0b34114dd893695f45ad84b/githubcard.svg"/>
+<img align="right" height="550em" src="https://raw.githubusercontent.com/gist/Guilherme-Yeager/751a16c1efb40d6b1b52fe5a0609b4e0/raw/3d50777b8e4d6dbff0b34114dd893695f45ad84b/githubcard.svg"/>
 <h1 align="left">Hi <img height="100em"src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme-Yeager&color=yellow" alt="Profile views" /> </p>
  
@@ -14,17 +14,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 
- 
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Yeager&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Yeager&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-
 
 </p>
 
