@@ -29,7 +29,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
-<a href="https://twitter.com/guiyeager"_blank">
+<a href="https://twitter.com/guiyager"_blank">
   <img align="center" src="https://img.shields.io/badge/-guiyager-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 </p>
