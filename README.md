@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img height="80em"src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Guilherme Lima</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme-Yeager&color=yellow" alt="Profile views" /> </p>
  
-- 👨‍💻 Student
+- 👨‍💻 Information systems student
 
 - ⚡ Programming dreams
 
