@@ -16,6 +16,13 @@
   <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
 </div>
 
+<!-- Redes -->
+<div  align="center">
+  <h1>Social Links 🔗</h1>
+  
+  [![LeetCode user Guilherme-Yeager](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FGuilherme-Yeager&logo=leetcode&logoColor=yellow)](https://leetcode.com/Guilherme-Yeager/)
+</div>
+
 <!--
 **Guilherme-Yeager/Guilherme-Yeager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
