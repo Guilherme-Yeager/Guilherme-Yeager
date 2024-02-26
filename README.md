@@ -1,5 +1,5 @@
 <img align="right" width="200" height="175" alt="gif" src="https://github.com/Guilherme-Yeager/Guilherme-Yeager/assets/105077089/9d114856-b74f-4198-be3f-b1873eade07c">
-<br><br><br><br><br>
+<br><br><br><br><br><br>
 <h1>Hello 👋</h1>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Yeager&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
