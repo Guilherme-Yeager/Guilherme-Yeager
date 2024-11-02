@@ -26,6 +26,7 @@
 </div>
 <div align="center">
   <h1 align="center">Visitors Count</h1>
+  <br>
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{Guilherme-Yeager}/count.svg?color=FF00FF" />
   </p>
