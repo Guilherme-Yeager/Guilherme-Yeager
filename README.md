@@ -28,7 +28,7 @@
 [![LeetCode user Guilherme-Yeager](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2FGuilherme-Yeager&logo=leetcode&logoColor=yellow)](https://leetcode.com/Guilherme-Yeager/)
 </div>
 <div align="center">
-  <h1 align="center">Profile Views</h1>
+  <h1 align="center">Profile Views 👨🏻‍💻</h1>
   <br>
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{Guilherme-Yeager}/count.svg?color=FF00FF" />
