@@ -25,8 +25,8 @@
   <h1>Social Links 🔗</h1>
   <br>
   
-[![LeetCode user Guilherme-Yeager](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech%2Fapi%2Fusers%2FGuilherme-Yeager&logo=leetcode&logoColor=yellow)](https://leetcode.com/Guilherme-Yeager/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grguilhermelima/) 
+  [![LeetCode user Guilherme-Yeager](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LEETCODE&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGuilherme-Yeager&logo=leetcode&logoColor=yellow)](https://leetcode.com/Guilherme-Yeager/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grguilhermelima/) 
 </div>
 
 <div align="center">
