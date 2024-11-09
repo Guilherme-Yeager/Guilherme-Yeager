@@ -9,18 +9,37 @@
 </div>
 <h1 align="center">Tools 🛠️</h1>
 <br>
-<div  align="center">
-  <img align="center" height="30" width="40" alt="python-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" alt="html5-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css3-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" height="30" width="40" alt="c-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" height="30" width="40" alt="c++-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" height="30" width="40" alt="c#-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" alt="java-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" height="30" width="40" alt="mysql-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" height="30" width="40" alt="figma-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-</div>
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="5">Languages</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img height="30" width="40" alt="rust-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"></td>
+      <td><img height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
+      <td><img height="30" width="40" alt="html5-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></td>
+      <td><img height="30" width="40" alt="css3-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></td>
+      <td><img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></td>
+    </tr>
+    <tr>
+      <td><img height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></td>
+      <td><img height="30" width="40" alt="c++-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></td>
+      <td><img height="30" width="40" alt="c#-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></td>
+      <td><img height="30" width="40" alt="java-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
+      <td><img height="30" width="40" alt="mysql-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></td>
+    </tr>
+    <tr>
+      <th colspan="5">Others</th>
+    </tr>
+    <tr>
+      <td colspan="5" align="center"><img height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></td>
+    </tr>
+  </tbody>
+</table>
+
+
 <div align="center">
   <h1>Social Links 🔗</h1>
   <br>
@@ -35,7 +54,7 @@
   <p align="center">
     <img align="center" src="https://profile-counter.glitch.me/{Guilherme-Yeager}/count.svg?color=FF00FF" />
   </p>
-</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3860f3&height=120&section=footer"/>
 
 <!--
