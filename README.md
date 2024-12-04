@@ -34,7 +34,11 @@
       <th colspan="5">Others</th>
     </tr>
     <tr>
-      <td colspan="5" align="center"><img height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"></td>
+      <td colspan="5" align="center">
+        <img height="30" width="40" alt="linux-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        <img height="30" width="40" alt="figma-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+        <img height="30" width="40" alt="pandas-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+      </td>
     </tr>
   </tbody>
 </table>
