@@ -79,6 +79,14 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grguilhermelima/) 
 </div>
 
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Yeager/Guilherme-Yeager/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Yeager/Guilherme-Yeager/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/Guilherme-Yeager/Guilherme-Yeager/pacman-contribution-graph.svg">
+</picture>
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3860f3&height=120&section=footer"/>
 
 <!--
